@@ -16,3 +16,7 @@ Some image of the app
 -If you're a woman
 
 <img src="AppImage/calorie1.png">
+
+- One example of result
+
+<img src="AppImage/result.png">

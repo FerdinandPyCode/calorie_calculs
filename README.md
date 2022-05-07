@@ -1,11 +1,11 @@
 # calorie_calculs
 
 A simple to calculate your dependence in calorie based on your :
- -size
- -weight
- -gender
- -age
- -phisical activity
+ - size
+ - weight
+ - gender
+ - age
+ - phisical activity
 
 Some image of the app
 
